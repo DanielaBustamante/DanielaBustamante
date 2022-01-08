@@ -1,6 +1,14 @@
-### Hi there 👋, I will tell you about myself 
+# Hi there 👋, I will tell you about myself 
 
-✨ I'm Daniela Bustamante and I am 19 years old✨
+### ✨ I'm Daniela Bustamante and I am 19 years old✨
+
+
+**Studies:**
+
+- Mechatronics Engineering (in progress)
+- Master in python (in progress)
+- Bachelor in data science (Starting March 2022)
+
 
 **Skills:**
 
@@ -10,6 +18,8 @@
 - Autocad
 - Soliworks
 
+
 **Contact:**
+
 - 📫 Email
 - Linkedln 
