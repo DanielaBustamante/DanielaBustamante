@@ -21,6 +21,4 @@
 
 - [Linkedln](https://www.linkedin.com/in/daniela-annabella-bustamante)
 
-
-[If you want to see some certifications click here](https://www.drive.google.com/drive/folders/157JnQNC1n2w15DNO7o2fXPHLB8l6uvog)
-
+<img alt="Certificates" title="Certificates" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv6vaHt20H0bMEJFxjt4qjWvRoDgZzda7AfA&usqp=CAU"/></a>
