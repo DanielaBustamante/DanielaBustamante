@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I will tell you about myself 
 
-✨ I'm Daniela Bustamante ✨
+✨ I'm Daniela Bustamante and I am 19 years old✨
 
 **Skills:**
 
