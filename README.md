@@ -3,14 +3,14 @@
 ### ✨ I'm Daniela Bustamante and I am 19 years old✨
 
 
-**Studies:**
+**My studies:**
 
 - Mechatronics Engineering (in progress)
 - Master in python (in progress)
 - Bachelor in data science (Starting March 2022)
 
 
-**Skills:**
+**Tools I use:**
 
 - Matlab
 - Arduino
@@ -19,7 +19,10 @@
 - Soliworks
 
 
-**Contact:**
+**You can contact me through:**
 
-- 📫 Email
-- Linkedln 
+- [Email](daniela.annabella05@gmail.com)
+- [Linkedln](linkedin.com/in/daniela-annabella-bustamante)
+
+[If you want to see some certifications click here](drive.google.com/drive/folders/157JnQNC1n2w15DNO7o2fXPHLB8l6uvog)
+
