@@ -21,4 +21,6 @@
 
 - [Linkedln](https://www.linkedin.com/in/daniela-annabella-bustamante)
 
+**You can see my certificates by clicking on the image:**
+
 <img alt="Certificates" title="Certificates" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv6vaHt20H0bMEJFxjt4qjWvRoDgZzda7AfA&usqp=CAU"/></a>
