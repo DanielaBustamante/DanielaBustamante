@@ -6,7 +6,6 @@
 **My studies:**
 
 - Mechatronics Engineering (in progress)
-- Master in python (in progress)
 - Bachelor in data science (Starting March 2022)
 
 
@@ -15,6 +14,7 @@
 - Matlab
 - Arduino
 - Minitab
+- Python (In progress)
 
 
 **You can contact me through:**
