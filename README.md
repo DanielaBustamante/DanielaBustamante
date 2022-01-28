@@ -15,6 +15,7 @@
 - Arduino
 - Minitab
 - Python (In progress)
+- JavaScrip (In progress)
 
 
 **You can contact me through:**
