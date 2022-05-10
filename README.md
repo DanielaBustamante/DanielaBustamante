@@ -6,7 +6,6 @@
 **My studies:**
 
 - Mechatronics Engineering (in progress)
-- Bachelor in data science (Starting March 2022)
 
 
 **Tools I use:**
@@ -15,7 +14,6 @@
 - Arduino
 - Minitab
 - Python (In progress)
-- JavaScrip (In progress)
 
 
 **You can contact me through:**
