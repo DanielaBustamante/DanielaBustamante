@@ -14,8 +14,9 @@
 - Arduino
 - Minitab
 - Python (In progress)
+- JavaScript (In progress)
 
 
 **You can contact me through:**
 
-- [Linkedln](https://www.linkedin.com/in/daniela-annabella-bustamante)
+- [Linkedln](www.linkedin.com/in/ingedanielabustamante)
